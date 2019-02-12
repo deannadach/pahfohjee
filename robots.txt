@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://toviey.rich-knight.com/sitemap.xml
